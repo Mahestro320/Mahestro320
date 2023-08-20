@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahestro320
 - 👀 I’m interested in the javascript language, json...
-- 🌱 I’m currently learning 
+- 🌱 I'm currently learning ... a certain programming language
 - 💞️ I can't collaborate for anyone, I'm just interested
 
 <!---
