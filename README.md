@@ -1,5 +1,6 @@
-# Hello ! I'm a french software engineer
+# Hello ! I'm a French software engineer
 
 > I program in this languages
 > 
-> java, python, C++, lua, batch, json, xml, html, javascript, css
+> Java, Python, C++ (a bit), Lua and Batch
+> My favourite is Java
