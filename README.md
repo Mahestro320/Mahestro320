@@ -1,4 +1,4 @@
-# Hello, I'm a French software engineer of 13 years old
+# Hello, I'm a French software engineer
 
 # I program in this languages:
 - Batch:    Extremely slow, but doesn't need any compiler under Windows
