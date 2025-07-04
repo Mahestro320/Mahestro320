@@ -7,4 +7,4 @@
 - Java:     Fast and pretty _simple_
 - C++:      Very fast, low level language
 
-> My favourite language is C++ because it's really fast
+> My favourite language is C++
